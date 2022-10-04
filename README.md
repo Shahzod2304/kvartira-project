@@ -1,5 +1,4 @@
-# Eshop_bot
- online shopping telegram bot connect django framework
+kvartira project 
 
 
-https://t.me/clothingstore93_bot
+
